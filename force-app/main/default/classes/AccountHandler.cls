@@ -1,3 +1,4 @@
+/*Auother :  Abhijeet Deshmukh */
 public class AccountHandler {
     public static void beforeupdate(List<Account> acclist , Map<Id,Account> oldmap){
         if(!acclist.isEmpty()){
